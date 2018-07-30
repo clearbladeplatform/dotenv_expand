@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,dotenv_expand",
+    "logging_enabled": "false",
+    "name": "dotenv_expandSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "dotenv_expandSmokeTest.js"
+}
